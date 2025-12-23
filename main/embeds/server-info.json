@@ -1,1 +1,25 @@
-
+{
+  "title": "🟩 BakaSMP 2",
+  "description": "Private friends SMP • Vanilla+ vibes • Long-term world",
+  "color": 5763719,
+  "fields": [
+    {
+      "name": "Connect",
+      "value": "**Address:** *.bakasmp.com\n**Version:** 1.21.x\n**Loader:** Fabric",
+      "inline": true
+    },
+    {
+      "name": "Access",
+      "value": "Whitelist + verification required",
+      "inline": true
+    },
+    {
+      "name": "Quick links",
+      "value": "• Rules → #📜rules\n• Mods/Datapacks → #🧩mods-og-datapacks\n• World info → #🗺️world-info\n• Verify → #✅verify",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "If you're here, you're probably supposed to be here."
+  }
+}
