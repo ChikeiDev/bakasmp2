@@ -1,1 +1,25 @@
-
+{
+  "title": "🗺️ World Info",
+  "description": "Server settings, shared areas, and progression notes.",
+  "color": 3066993,
+  "fields": [
+    {
+      "name": "Settings",
+      "value": "**Difficulty:** Hard\n**Seed:** Hidden\n**KeepInventory:** No",
+      "inline": true
+    },
+    {
+      "name": "Shared areas",
+      "value": "• Spawn area (starter builds)\n• Shopping district (planned)\n• Nether hub (planned)",
+      "inline": true
+    },
+    {
+      "name": "Progression",
+      "value": "End access and big milestones are decided together.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "Major updates get posted here."
+  }
+}
