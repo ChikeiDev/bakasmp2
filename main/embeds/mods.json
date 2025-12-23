@@ -1,1 +1,15 @@
-
+{
+  "title": "🧩 Mods & Datapacks",
+  "description": "This server uses a modpack.",
+  "color": 3447003,
+  "fields": [
+    {
+      "name": "Comign soon",
+      "value": "Stiff sppm",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "Owner updates this when the pack changes."
+  }
+}
