@@ -1,1 +1,10 @@
-placeholder
+{
+  "version": 1,
+  "embeds": {
+    "server-info": "embeds/server-info.json",
+    "regler": "embeds/regler.json",
+    "mods": "embeds/mods.json",
+    "world-info": "embeds/world-info.json",
+    "verify": "embeds/verify.json"
+  }
+}
