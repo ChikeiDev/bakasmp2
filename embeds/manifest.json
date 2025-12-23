@@ -1,7 +1,7 @@
 {
-  "server-info": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/main/embeds/server-info.json",
-  "regler": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/main/embeds/regler.json", 
-  "mods": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/main/embeds/mods.json",
-  "world-info": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/main/embeds/world-info.json",
-  "verify": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/main/embeds/verify.json"
+  "server-info": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/refs/heads/main/embeds/server-info.json",
+  "regler": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/refs/heads/main/embeds/regler.json", 
+  "mods": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/refs/heads/main/embeds/mods.json",
+  "world-info": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/refs/heads/main/embeds/world-info.json",
+  "verify": "https://raw.githubusercontent.com/ChikeiDev/bakasmp2/refs/heads/main/embeds/verify.json"
 }
