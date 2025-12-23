@@ -1,1 +1,20 @@
-
+{
+  "title": "✅ Verification",
+  "description": "To unlock the server channels, verify with a code from the owner.",
+  "color": 16776960,
+  "fields": [
+    {
+      "name": "Command",
+      "value": "**/verify code:<your-code>**\nExample: **/verify code:BAKA-7F3KQ9**",
+      "inline": false
+    },
+    {
+      "name": "Need a code?",
+      "value": "Ask the owner (DM) or request one here.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "After verifying, you’ll get the Verified role."
+  }
+}
