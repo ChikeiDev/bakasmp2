@@ -1,1 +1,25 @@
-
+{
+  "title": "📜 Rules",
+  "description": "Short rules. Clear expectations. No drama.",
+  "color": 15158332,
+  "fields": [
+    {
+      "name": "Core",
+      "value": "• No griefing\n• No stealing\n• PvP only if everyone agrees",
+      "inline": true
+    },
+    {
+      "name": "Gameplay",
+      "value": "• Pranks are fine — permanent damage isn’t\n• Don’t intentionally lag/crash the server\n• Keep farms reasonable",
+      "inline": true
+    },
+    {
+      "name": "If something goes wrong",
+      "value": "Ping the owner. We’ll fix/rollback and move on.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "Be normal. Be chill."
+  }
+}
